@@ -926,7 +926,6 @@ header .navigation li:first-child {
   margin: 0 auto;
   padding-bottom: 170px;
 }
-/* !  можливо добавити класи */
 .slider li {
   overflow: hidden;
 }
@@ -939,7 +938,6 @@ header .navigation li:first-child {
   border-radius: 160px;
 }
 
-/*! доробити кнопку в профайлі */
 
 /* Questions */
 
@@ -1027,13 +1025,6 @@ footer p.copyright {
   font-size: 14px;
   line-height: 14px;
 }
-
-/* 
-TODO: header кнопку змістити 
-TODO: Discover Our Travel Guideline - компас
-TODO: Check Our Instagram Profile - кнопка і карусель 
-TODO: адаптив, може ще добавити в ui_components щось
-*/
 
 /* slider styles */
 
