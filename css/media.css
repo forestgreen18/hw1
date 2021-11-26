@@ -1,0 +1,752 @@
+@media screen and (max-width: 1440px) {
+  .travel-place__inner .hero__background .img-wrapper--lg {
+    left: 75px;
+  }
+
+  .travel-place__inner .hero__background .img-wrapper--lg .hero__img--lg {
+    width: 345px;
+  }
+
+  .travel-place__inner .hero__background .img-wrapper--md .hero__img--md {
+    width: 255px;
+  }
+
+  .travel-place__inner .hero__background .img-wrapper--md {
+    width: 46%;
+  }
+}
+
+@media screen and (max-width: 1266px) {
+  :root {
+    font-size: 14px;
+  }
+
+  h1 {
+    font-size: 3.5rem !important;
+  }
+
+  p {
+    font-size: 1rem !important;
+  }
+
+  .hero__inner .hero-block {
+    gap: 18% !important;
+  }
+
+  .travel-preferences .bottom-block,
+  .locations .main {
+    grid-template-columns: repeat(3, 32%);
+  }
+
+  .container {
+    padding: 5px 20px;
+  }
+
+  .card .text-block {
+    width: 100%;
+  }
+
+  .img-wrapper--md {
+    width: 45%;
+  }
+
+  .img-wrapper--lg {
+    left: 20% !important;
+    width: 70%;
+  }
+
+  .information-card {
+    width: 80% !important;
+  }
+
+  .option-bar {
+    grid-template-columns: repeat(4, 25%);
+    width: 80%;
+  }
+
+  .discover .text {
+    height: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgba(255, 255, 255, 0.85);
+  }
+
+  .locations .main .suggestion-block {
+    display: flex;
+  }
+
+  .locations .information-card {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 1110px) {
+  .hero__inner .hero-block {
+    display: grid;
+    grid-template-columns: 40% 40%;
+  }
+
+  .travel-preferences {
+    padding-bottom: 50px;
+  }
+
+  .locations {
+    padding-top: 50px;
+  }
+
+  .customers {
+    padding-bottom: 100px;
+  }
+
+  .instagram-profile .gallery {
+    padding-bottom: 50px;
+  }
+
+  .questions {
+    padding-bottom: 50px;
+  }
+
+  .customers .customers-img-block img#third {
+    right: -329px;
+  }
+
+  .customers .customers-img-block img#two {
+    top: 126px;
+    right: -221px;
+  }
+
+  .customers .customers-img-block img#fourth {
+    right: -283px;
+  }
+
+  .customers .customers-img-block img#fifth {
+    top: 105px;
+    right: 177px;
+  }
+
+  .customers .customers-img-block img#sixth {
+    right: 267px;
+  }
+  .customers .customers-img-block img#eighth {
+    right: 149px;
+  }
+
+  .locations .information-card {
+    display: flex;
+  }
+
+  .locations .information-card {
+    height: 30%;
+    max-height: none;
+  }
+
+  .locations .information-card .text,
+  .locations .information-card .rating {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .locations .information-card .rating {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 920px) {
+  .hero__text-content .instagram-profile .header {
+    margin-top: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .instagram-profile .header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .instagram-profile .header .btn {
+    margin-top: 30px;
+  }
+
+  .hero__inner .hero-block {
+    display: grid;
+    grid-template-columns: 45% 35%;
+    gap: 10% !important;
+  }
+
+  .question-card h1,
+  .question-card span {
+    background: rgba(255, 255, 255, 0.9);
+  }
+
+  .navigation {
+    display: none;
+  }
+
+  .sec-center {
+    margin-left: 30%;
+    display: block;
+  }
+
+  .hero-block {
+    display: flex;
+    justify-content: center;
+  }
+
+  .hero__text-content {
+    height: 100% !important;
+    width: 100% !important;
+    padding: 10px 20px 0 10px;
+    z-index: 2;
+    background: rgba(255, 255, 255, 0.8);
+  }
+
+  .img-wrapper--md {
+    left: 40%;
+  }
+
+  .register-lg {
+    display: none;
+  }
+
+  .sec-center {
+    margin-right: 60px;
+  }
+
+  .locations span.paragraph-text {
+    margin-top: 5px;
+  }
+
+  .instagram-profile__inner.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .travel-preferences .card span {
+    font-size: 12px !important;
+  }
+
+  .travel-preferences .bottom-block {
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 753px) {
+  .discover .text {
+    text-align: center;
+    display: flex;
+    align-items: center;
+  }
+
+  .travel-place .travel-place__inner {
+    display: flex;
+    justify-content: center;
+  }
+
+  .travel-place .hero__text-content {
+    align-items: center;
+    text-align: center;
+  }
+
+  .travel-place .card-box {
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+  }
+
+  .hero__inner .hero-block {
+    grid-template-columns: 80%;
+    grid-template-rows: 70%;
+    gap: 0;
+    position: relative;
+  }
+
+  .discover .container {
+    width: 100% !important;
+    justify-content: center;
+    padding: 0;
+  }
+
+  .hero__text-content {
+    width: 100% !important;
+  }
+
+  .hero__background {
+    position: absolute;
+  }
+
+  .hero__text-content {
+    height: 100%;
+    font-size: 3rem !important;
+  }
+
+  .hero__text-content {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-block .img-wrapper--lg {
+    width: 95%;
+  }
+  .hero-block .img-wrapper--md {
+    left: 44%;
+    width: 71%;
+  }
+
+  .travel-place .hero__text-content {
+    padding: 0 5px;
+    padding-bottom: 50px;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+  }
+  .travel-place .travel-place__inner {
+    padding-bottom: 60px;
+  }
+
+  .hero__img--md {
+    width: 290px;
+  }
+}
+
+@media screen and (max-width: 667px) {
+  :root {
+    font-size: 16px;
+  }
+
+  .option-bar {
+    margin-bottom: 35px;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+  }
+
+  .locations .header .buttons-block {
+    margin-top: 20px;
+  }
+
+  .option-section {
+    padding: 5px 0;
+    border-bottom: 1px solid black;
+  }
+
+  .travel-preferences {
+    padding-top: 150px;
+  }
+
+  .option-section:nth-child(2) {
+    border-bottom-right-radius: 0%;
+    border-bottom-left-radius: 0%;
+    background: #fff;
+  }
+
+  .option-section:nth-child(3) {
+    background: #fff;
+    border-radius: 0%;
+  }
+
+  .option-section:nth-child(4) {
+    padding: 15px 0;
+    border-radius: 0%;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom: none;
+  }
+
+  .customers .customers-img-block img#third,
+  .customers .customers-img-block img#eighth {
+    display: none;
+  }
+
+  .question-card .text h1 {
+    font-size: 4rem !important;
+  }
+
+  .customers .customers-img-block img#sixth {
+    right: 199px;
+    top: 348px;
+  }
+
+  .customers .customers-img-block img#fourth {
+    right: -241px;
+    top: 361px;
+  }
+
+  .customers .customers-img-block img#seventh {
+    top: 211px;
+    right: 221px;
+  }
+
+  .customers .review-card {
+    width: 32%;
+  }
+
+  .card,
+  .travel-preferences .card span {
+    font-size: 1rem;
+  }
+
+  .travel-preferences img {
+    margin-top: 30px;
+  }
+
+  .travel-preferences .bottom-block,
+  .locations .main {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .locations .main .suggestion-block {
+    width: 32%;
+  }
+
+  .hero__inner .hero-block {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .btn--md {
+    padding: 10px 26px;
+  }
+
+  .hero__background {
+    width: 90%;
+  }
+
+  h1 {
+    font-size: 2.5rem !important;
+  }
+
+  .customers .review-card .review-text {
+    width: 90%;
+  }
+
+  .customers .review-card {
+    width: 50%;
+  }
+
+  .option-section p {
+    font-size: 0.5rem;
+    text-align: center;
+  }
+  .option-section p img {
+    margin-top: 5px;
+    margin-left: 38%;
+    display: block;
+  }
+
+  .hero__text-content {
+    width: 50%;
+  }
+
+  .discover .container .map {
+    display: none;
+  }
+
+  .travel-preferences .bottom-block,
+  .locations .main {
+    flex-direction: column;
+  }
+
+  .travel-place .card {
+    background: #fff;
+  }
+
+  .travel-place__inner .hero__background {
+    margin-top: 0;
+  }
+
+  .option-bar {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    width: 60%;
+  }
+
+  .hero {
+    padding-top: 20px;
+  }
+
+  .locations .main .suggestion-block {
+    display: flex;
+    width: 100%;
+  }
+
+  .locations .information-card {
+    margin-top: 20px;
+  }
+
+  .locations .main {
+    align-items: center;
+  }
+
+  .locations .header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .locations {
+    padding: 50px 0;
+  }
+
+  .hero-block .img-wrapper--md {
+    left: 26%;
+  }
+
+  .discover .compass {
+    left: 39%;
+    top: 78%;
+  }
+
+  .travel-place .hero__text-content {
+    padding: 0 10px;
+    padding-bottom: 50px;
+  }
+
+  .travel-place .travel-place__inner {
+    padding-top: 30px;
+  }
+
+  .question-card .text h1 {
+    font-size: 3rem !important;
+    padding: 0 10px;
+  }
+
+  .hero__img--md {
+    width: 270px;
+  }
+
+  .hero-block .img-wrapper--md {
+    left: 39%;
+    width: 52%;
+  }
+  .hero-block .img-wrapper--lg {
+    width: 82%;
+  }
+}
+
+@media screen and (max-width: 585px) {
+  .customers .customers-img-block img#one {
+    top: 0;
+  }
+
+  .customers .review-card {
+    margin-top: 120px;
+  }
+
+  .instagram-profile .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .instagram-profile .header {
+    margin-top: 50px;
+  }
+
+  .instagram-profi .btn--md {
+    margin-top: 20px;
+  }
+
+  .instagram-profile .text-block h1 {
+    padding-bottom: 20px;
+  }
+
+  .instagram-profile .text-block {
+    text-align: center;
+  }
+
+  .customers .top-text {
+    padding-top: 50px;
+  }
+
+  .customers {
+    padding-bottom: 50px;
+  }
+
+  .customers .customers-img-block img {
+    display: none;
+  }
+
+  .customers .customers-img-block img#one {
+    display: block !important;
+  }
+
+  .customers .review-card {
+    width: 90%;
+  }
+
+  .instagram-profile .header {
+    padding-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .question-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .question-card .text {
+    padding-bottom: 5px;
+    margin: 0;
+  }
+
+  .question-card .text h1,
+  .question-card .text span {
+    background: none;
+  }
+
+  .travel-place .card p.title {
+    margin-top: 0 !important;
+  }
+
+  .travel-place .card {
+    padding: 20px 0;
+  }
+
+  .discover .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  .question-card .text {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+  .question-card .text {
+    background: rgba(255, 255, 255, 0.9);
+  }
+
+  .btn--small {
+    padding: 9px 10px;
+  }
+
+  label {
+    height: 79%;
+  }
+
+  .register {
+    display: block;
+  }
+
+  .travel-place .card-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+  }
+
+  .travel-place .card-box .card {
+    background: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    width: 70%;
+  }
+
+  .travel-place .travel-place__inner {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .icon-sm {
+    display: block;
+  }
+
+  .icon-lg {
+    display: none;
+  }
+
+  .sec-center {
+    margin-right: 30%;
+  }
+
+  .section-dropdown {
+    left: -60px;
+  }
+
+  .section-dropdown:after {
+    left: 76px;
+  }
+
+  .option-bar {
+    margin-top: 6%;
+  }
+
+  .travel-preferences .top-text {
+    text-align: center;
+  }
+
+  .travel-preferences {
+    padding-bottom: 50px;
+  }
+
+  .locations {
+    padding-top: 50px;
+  }
+}
+
+@media screen and (max-width: 471px) {
+  .discover .compass {
+    display: none;
+  }
+
+  .travel-preferences .bottom-block,
+  .locations .main {
+    margin-top: 20px;
+  }
+
+  .question-card .text {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+  .question-card {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .question-card .text {
+    margin: 0;
+  }
+
+  .instagram-profile .gallery {
+    padding-bottom: 50px;
+  }
+
+  .questions {
+    padding-bottom: 50px;
+  }
+
+  footer {
+    padding-bottom: 10px;
+  }
+
+  footer .header__inner {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .instagram-profile .gallery-lg {
+    padding-bottom: 60px;
+  }
+
+  footer p.copyright {
+    line-height: 2;
+  }
+}
