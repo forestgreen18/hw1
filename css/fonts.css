@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Airbnb Cereal App";
+  src: url("/fonts/AirbnbCerealMedium.ttf") format("ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Airbnb Cereal App Bold";
+  src: url("/fonts/AirbnbCereal-Bold.ttf") format("ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Eksell Display";
+  src: url("/fonts/Eksell\ Display\ Large\ [TheFontsMaster.com].otf")
+    format("otf");
+}
